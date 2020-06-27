@@ -156,5 +156,16 @@
     .navbar-toggler{
         font-size: 60px;
     }
-}
+    #footer a{
+        color: gray;
+    }
+    .footericon{
+        padding: 0% 7%;
+    }
+    .allfooter{
+        margin-bottom: 20px;
+    }
+    #footer i{
+        font-size: 50px;
+    }
 }
