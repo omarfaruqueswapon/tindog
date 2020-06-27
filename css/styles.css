@@ -147,4 +147,7 @@
     #title{
         text-align: center;
     }
+    .navbar-expand-lg{
+    font-size: 60px;
+}
 }
