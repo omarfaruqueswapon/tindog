@@ -148,6 +148,13 @@
         text-align: center;
     }
     .navbar-expand-lg{
-    font-size: 60px;
+        font-size: 60px;
+    }
+    .navbar-brand{
+        font-size: 60px;
+    }
+    .navbar-toggler{
+        font-size: 60px;
+    }
 }
 }
