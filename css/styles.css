@@ -1,3 +1,7 @@
+.btn{
+    margin: 1%;
+}
+
 .container{
     padding:5% 5%;
 }
@@ -131,6 +135,12 @@
 
 
 
+
+
+
+
+
+
 @media (max-width: 1000px) {
     .title-page img{
         padding: 5%;
@@ -146,6 +156,9 @@
     }
     #title{
         text-align: center;
+    }
+    .nav-link{
+        text-align: left;
     }
     .navbar-expand-lg{
         font-size: 60px;
